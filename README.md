@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Kaggle Competitions**
 
-- 🌱 I’m currently learning **NLP from Coursera**
+- 🌱 I’m currently learning **Visual Processing**
 
 - 📫 How to reach me **yilmazmusa8@gmail.com**
 
