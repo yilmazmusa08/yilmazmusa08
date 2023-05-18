@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000)](https://KaizokuouKaido.io)
 <h1 align="center">Hi 👋, I'm Musa YILMAZ</h1>
-<h3 align="center">A Jr. Data Scientist & Machine Learning Engineer</h3>
+<h3 align="center">A Data Scientist & Artificial</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/0*tBpl-eS41qcfLe1a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizokuoukaido&label=Profile%20views&color=0e75b6&style=flat" alt="kaizokuoukaido" /> </p>
