@@ -3,7 +3,7 @@
 <h3 align="center">A Data Scientist & Artificial</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/0*tBpl-eS41qcfLe1a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizokuoukaido&label=Profile%20views&color=0e75b6&style=flat" alt="kaizokuoukaido" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yilmazmusa08&label=Profile%20views&color=0e75b6&style=flat" alt="yilmazmusa08" /> </p>
 
 - 🔭 I’m currently working on **Kaggle Competitions**
 
